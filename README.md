@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lebarisunday
+- 👋 Hi, I’m @lebari sunday
 - 👀 I’m interested in coding and sports
 - 🌱 I’m currently in the process of learning how to code
 - 💞️ I’m looking to collaborate on many different coding project
