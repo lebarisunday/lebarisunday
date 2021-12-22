@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and sports
 - 🌱 I’m moderate in coding, familiar with all Cs, HTML, Java, python
 - 💞️ I’m looking to collaborate on many different coding project if possible
-- 📫 How to reach me pls166@humboldt.edu
+- 📫 How to reach me thesuntoken1@gmail.com
 - I am the best
 
 <!---
